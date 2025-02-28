@@ -1,6 +1,2 @@
 First commit gitLearning
-<<<<<<< HEAD
-Second commit
-=======
-Commit to main
->>>>>>> 7be39ae56b6903b8fb304a31fd4750fbcd6c2707
+Commit to second-commit branch for the second time
